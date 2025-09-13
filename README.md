@@ -44,5 +44,5 @@
 ## 📫 Connect With Me
 
 * 🌐 Portfolio: [bhavanir.com](https://bhavanir.com)
-* 💼 LinkedIn: [linkedin.com/in/bhavanir](https://linkedin.com/in/bhavanir)
+* 💼 LinkedIn: [linkedin.com/in/bhavanir](https://linkedin.com/in/bhavani-rachakatla)
 * 📧 Email: [bhavanir.dev@gmail.com](mailto:bhavanir.dev@gmail.com)
